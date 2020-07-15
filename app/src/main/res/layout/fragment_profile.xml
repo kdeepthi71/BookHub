@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.internshala.myapplication.fragment.ProfileFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/txtProfile"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="There's a thing about books, they let you travel without moving your feet. For all the book lovers out there, here's an app to please the bookworm inside you. BookHub is made for you.This eBook app provides you with an insight about the books, their ratings and the price."
+        android:textStyle="italic"
+        android:textSize="18sp"
+        android:padding="10dp"/>
+
+</RelativeLayout>
